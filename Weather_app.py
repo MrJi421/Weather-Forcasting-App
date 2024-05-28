@@ -28,6 +28,9 @@ def plot_bar_chart(days, temp_min, temp_max):
     ax.tick_params(axis='x', rotation=45)
     st.pyplot(fig)
 
+# Hi Hemant 
+
+
 # Function to plot line chart
 def plot_line_chart(days, temp_min, temp_max):
     fig, ax = plt.subplots(figsize=(10, 5))
