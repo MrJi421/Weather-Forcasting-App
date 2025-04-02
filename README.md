@@ -25,7 +25,7 @@ The **Weather Forecasting App** is an intuitive web application developed using 
 2. **Navigate to the project directory:**
    ```bash
    cd weather-forecast-app
-   ```
+   `
 
 3. **Install the required dependencies:**
    ```bash
